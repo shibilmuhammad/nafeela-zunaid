@@ -556,7 +556,7 @@ document.addEventListener('DOMContentLoaded', () => {
         shareBtn.addEventListener('click', async () => {
             const shareData = {
                 title: 'Two Nikahs. One Celebration | Joint Wedding Invitation',
-                text: 'With the blessings of Almighty Allah & our families, you are cordially invited to celebrate the double wedding celebration of Mohammed Zunaid & Fathimathul Nafeela and Mohammed Nihal & Shaima on Sunday, January 17, 2027 at Royal Palace, Tenkayedapadavu, Ganjimutt, Mangalore. Two Nikahs (11:00 AM & 11:30 AM), followed by one shared reception. Kindly grace this occasion with your presence and duas.',
+                text: 'With the blessings of Almighty Allah & our families, you are cordially invited to celebrate the double wedding celebration of Fathimathul Nafeela & Mohammed Zunaid and Mohammed Nihal & Shaima on Sunday, January 17, 2027 at Royal Palace, Tenkayedapadavu, Ganjimutt, Mangalore. Two Nikahs (11:00 AM & 11:30 AM), followed by one shared reception. Kindly grace this occasion with your presence and duas.',
                 url: window.location.href
             };
 
