@@ -1520,11 +1520,23 @@ body.opening-active {
 .person-parentage {
     display: block;
     font-family: var(--font-sans);
-    font-size: 0.78rem;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: #6C5B48;
+    letter-spacing: 0.02em;
+    margin-top: 0.25rem;
+    line-height: 1.35;
+}
+
+.person-grandparentage {
+    display: block;
+    font-family: var(--font-sans);
+    font-size: 0.73rem;
     font-weight: 500;
-    color: #7D6C58;
-    letter-spacing: 0.03em;
-    margin-top: 0.2rem;
+    color: #8C7B65;
+    letter-spacing: 0.02em;
+    margin-top: 0.15rem;
+    line-height: 1.35;
 }
 
 /* ==========================================================================
