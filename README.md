@@ -6,6 +6,6 @@ A royal luxury Muslim double wedding invitation website for **Fathimathul Nafeel
 - **Timings**:
   - **First Nikah**: 11:00 AM (Fathimathul Nafeela & Mohammed Zunaid)
   - **Second Nikah**: 11:30 AM (Mohammed Nihal & Shaima)
-  - **Reception & Feast**: 12:30 PM Onwards
+  - **Reception & Feast**: After Nikah till 2:30 PM
 - **Venue**: Royal Palace, Tenkayedapadavu, Ganjimutt, Mangalore
 - **Google Maps**: [Royal Palace Location](https://maps.app.goo.gl/2ABSfz9AhNGzcSU56?g_st=iw)
